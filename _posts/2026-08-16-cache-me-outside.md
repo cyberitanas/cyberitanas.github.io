@@ -67,7 +67,7 @@ Going through all of these, though, I wasn't able to find much personal info. So
 
 https://github.com/jiml33t/jiml33t/commit/7b2c8e0a540c36f2e09da5945066020621d6a059.patch
 
-![Commit patch header showing email](/assets/git_6.png)
+![Commit patch header showing email](/assets/git_7.png)
 
 **Flag 1: Email** `jimleepro1@gmail.com`
 
@@ -85,7 +85,8 @@ I search "jimlee1337" once more and this time turn up an Instagram and a Threads
 
 This looks like where I'll find his location, so I pin it for later and go back to the GitHub forks in the meantime. One fork in particular catches my eye, it's following our guy, which makes me wonder if it's an alt account of his:
 
-![Suspicious fork account](/assets/git_7.png)
+![Suspicious fork account](/assets/git_6.png)
+
 
 I go through the profile pretty thoroughly, but it leads nowhere.
 
@@ -101,7 +102,7 @@ At this point I try using the email itself as a probe, sending a message to it j
 
 It works. This gets us our second piece of information.
 
-**Flag 2: Phone number** [fill in the number from the autoreply]
+**Flag 2: Phone number** [+40 743 321 239]
 
 ## Pivot 3: geolocation
 
