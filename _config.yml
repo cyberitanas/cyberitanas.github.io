@@ -1,0 +1,40 @@
+title: Itanas V. | Security Writeups
+description: TryHackMe and CTF writeups, notes, and security learning log.
+baseurl: "" # leave empty for a yourusername.github.io repo
+url: "https://cyberitanas.github.io"
+
+theme: minima # swap to "jekyll-theme-chirpy" later if you install Chirpy instead
+markdown: kramdown
+highlighter: rouge
+future: true
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Shows up in the default minima navbar
+minima:
+  skin: dark
+  social_links:
+    github: cyberitanas
+
+# collections_dir: .
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+
+# Exclude these from the generated site
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - vendor
