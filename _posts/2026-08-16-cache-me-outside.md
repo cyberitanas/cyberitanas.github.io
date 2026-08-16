@@ -1,3 +1,28 @@
+---
+layout: post
+title: "TryHackMe: [Cache Me Outside] Writeup"
+date: 2026-08-16 
+categories: [tryhackme, writeup,]
+tags: [OSINT]  
+---
+
+> **Room:** [Cache Me Outside] — [Medium]
+> **Link:** [tryhackme.com/room/roomname](https://tryhackme.com/room/cachemeoutside
+
+
+## Overview
+
+Years after walking away from the scene, a retired hacker has left pieces of his identity scattered across the open internet.
+
+At first glance, it looks like nothing more than a leaked conversation screenshot. But buried in that image is the first thread of a much larger trail. Public profiles, forgotten details, and small mistakes begin to connect into something more deliberate.
+
+Someone wanted this person found.
+
+Your Assignment
+You are an OSINT investigator tasked with identifying the retired hacker and tracing the clues he left behind.
+
+Start with the conversation screenshot, follow his online presence, connect the exposed details, and use the final evidence to determine where the trail ends.
+![Task Image](/intial/git_1.png)
 I first read the task at hand and tried to gather as many clues as possible.
 
 Within the picture, I notice a link which I follow.
